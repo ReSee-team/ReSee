@@ -24,17 +24,6 @@ npx expo start
 
 ---
 
-## 🛠 Tech Stack
-
-- [ ] React Native / Flutter / Android Studio?
-- [ ] Expo (if React Native)
-- [ ] Firebase / Supabase?
-- [ ] TypeScript?
-
-> ✅ Update this list to match your actual tools.
-
----
-
 ## ✅ Rules and Guidelines
 
 ### 🔐 Branching
